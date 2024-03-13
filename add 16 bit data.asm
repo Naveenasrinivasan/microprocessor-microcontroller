@@ -1,0 +1,7 @@
+# ORG 0000
+	   LHLD 8600
+	   XCHG
+	   LHLD 8602
+	   DAD D
+	   SHLD 8700
+	   HLT
